@@ -4,6 +4,8 @@ Formado em Análise e Desenvolvimento de Sistemas.
 
 - **Desenvolvedor Full Stack**
 - **Desenvolvedor Web**
+- Apaixonado por **Viajar**
+- 3° Em **Ciência da Computação**
 - 🖥️ Atualmente mais focado em:
 <div display="flex" >
 <img width="27" higth="27"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />

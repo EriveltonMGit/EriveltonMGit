@@ -29,10 +29,10 @@ Formado em Análise e Desenvolvimento de Sistemas.
 
 
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
-- <a href="https://github.com/lucaslealx/HousePrices/tree/main#readme">
-    Projeto Kaggle: prevendo o preço das casas (House Prices)
+- <a href="https://github.com/Eriveltonssa/SiteResponsivoSenai">
+    Projeto realizado no SENAI
   </a>
 - <a href="https://github.com/Eriveltonssa/ComandosBrasil">
-    Conceitos fundamentais de estatística para Ciência de Dados (Medium)
+   Site em desenvolvimento
   </a>
 

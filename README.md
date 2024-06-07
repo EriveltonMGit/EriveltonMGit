@@ -4,7 +4,7 @@ Formado em Análise e Desenvolvimento de Sistemas.
 
 - **Desenvolvedor Full Stack**
 - **Desenvolvedor Web**
-- Apaixonado em **Viajem**
+- Apaixonado por **Programação**
 - 3° Em **Ciência da Computação**
 - 🖥️ Atualmente mais focado em:
 <div display="flex" >

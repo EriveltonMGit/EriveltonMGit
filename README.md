@@ -31,7 +31,7 @@ Formado em Análise e Desenvolvimento de Sistemas.
 - <a href="https://github.com/Eriveltonssa/SiteResponsivoSenai">
     Projeto realizado no SENAI
   </a>
-- <a href=" https://calm-web-designer.netlify.app/">
+- <a href="https://calm-web-designer.netlify.app/">
    Site em desenvolvimento - responsividade 480px - 768px
   </a>
 

@@ -4,6 +4,8 @@ Formado em Análise e Desenvolvimento de Sistemas.
 
 - **Desenvolvedor Full Stack**
 - **Desenvolvedor Web**
+- **Certificado - Google Cloud Computing 
+Foundations ACADEMY**
 - 3° Em **Ciência da Computação**
 - 🖥️ Atualmente mais focado em:
 <div display="flex" >

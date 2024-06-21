@@ -30,7 +30,7 @@ Foundations ACADEMY**
 
 
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
-- <a href=" https://landingchurascaria.netlify.app/">Projeto realizado no SENAI
+- <a href="https://landingchurascaria.netlify.app/">Projeto realizado no SENAI
   </a>
 - <a href="https://calm-web-designer.netlify.app/">
    Site em desenvolvimento - responsividade 480px - 768px

@@ -6,7 +6,6 @@ Formado em Análise e Desenvolvimento de Sistemas.
 - **Desenvolvedor Front End**
 - **Certificado - Google Cloud Computing 
 Foundations ACADEMY**
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="85ca8dec-6450-4be0-aa46-577857fc9319" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 - 3° Em **Ciência da Computação**
 - 🖥️ Atualmente mais focado em:
 <div display="flex" >

@@ -33,4 +33,3 @@ Foundations ACADEMY**
 - <a href="https://calm-web-designer.netlify.app/">
    Site em desenvolvimento - responsividade 480px - 768px
   </a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?EriveltonMGit=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)

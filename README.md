@@ -33,4 +33,4 @@ Foundations ACADEMY**
 - <a href="https://calm-web-designer.netlify.app/">
    Site em desenvolvimento - responsividade 480px - 768px
   </a>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)

@@ -1,4 +1,4 @@
-## Olá 👋, eu sou Erivelton Magalhães
+## Olá 👋, eu sou Erivelton Magalhães.
 Formado em Análise e Desenvolvimento de Sistemas.
 
 

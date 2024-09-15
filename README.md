@@ -2,8 +2,7 @@
 Formado em Análise e Desenvolvimento de Sistemas.
 
 
-- **Desenvolvedor Full Stack**
-- **Desenvolvedor Front End**
+- **Desenvolvedor Full Stack**
 - **Certificado - Google Cloud Computing 
 Foundations ACADEMY**
 - 3° Em **Ciência da Computação**

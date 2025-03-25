@@ -54,8 +54,9 @@ Atualmente, estou me dedicando a projetos que envolvem diversas tecnologias mode
 
 ### 🚀 Meus Projetos
 
-- [SITE OFICIAL - responsividade 480px](https://web-desing-page.netlify.app/)
-- [Site em desenvolvimento - responsividade 480px - 768px](https://calm-web-designer.netlify.app/)
+- [SITE OFICIAL](https://web-desing-page.netlify.app/)
+- [Portfólio](https://portfolio-deev.netlify.app/)
+- [E-commerce](https://digital-comerce.netlify.app/)
 
 ---
 

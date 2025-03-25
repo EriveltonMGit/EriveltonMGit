@@ -1,6 +1,6 @@
 ## Olá 👋, eu sou Erivelton Magalhães
 
-Formado em Análise e Desenvolvimento de Sistemas, sou um **Desenvolvedor Full Stack & Front End** apaixonado por criar soluções inovadoras.  
+Formado em Análise e Desenvolvimento de Sistemas, sou um **Desenvolvedor Full Stack** apaixonado por criar soluções inovadoras.  
 Atualmente, estou me dedicando a projetos que envolvem diversas tecnologias modernas e dinâmicas.
 
 ---
@@ -11,6 +11,7 @@ Atualmente, estou me dedicando a projetos que envolvem diversas tecnologias mode
   - Desenvolvedor Full Stack
   - Desenvolvedor Front End
   - Google Cloud Computing Foundations ACADEMY
+ 
  
 - 5° em **Ciência da Computação**
 - Experiência com desenvolvimento de aplicações web escaláveis e de alta performance.

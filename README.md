@@ -10,7 +10,9 @@ Atualmente, estou me dedicando a projetos que envolvem diversas tecnologias mode
 - **Certificações:**
   - Desenvolvedor Full Stack
   - Desenvolvedor Front End
+  - Java 
   - Google Cloud Computing Foundations ACADEMY
+  - Testes Unitários
  
  
 - 5° em **Ciência da Computação**

@@ -15,7 +15,7 @@ Atualmente, estou me dedicando a projetos que envolvem diversas tecnologias mode
   - Testes Unitários
  
  
-- 5° em **Ciência da Computação**
+- 6° em **Ciência da Computação**
 - Experiência com desenvolvimento de aplicações web escaláveis e de alta performance.
 
 ---
@@ -82,3 +82,4 @@ Atualmente, estou me dedicando a projetos que envolvem diversas tecnologias mode
     </tr>
   </table>
 </div>
+
